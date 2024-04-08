@@ -1,11 +1,11 @@
 team: Tigers
 
-manager: Deborah
+manager: Brenda
 
 coach: Grace
 
 members:
-- Linda
-- William
-- David
-- George
+  - Linda
+  - William
+  - David
+  - George
